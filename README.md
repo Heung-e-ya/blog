@@ -1,1 +1,1 @@
-
+click event , array
